@@ -59,3 +59,11 @@ pnpm changeset
 ### Running tests
 
 See <app/laboratory/tests/README.md>
+
+## Catatan Tambahan
+
+Repositori ini saya fork sebagai bagian dari pembelajaran smart contract menggunakan Solidity dan OpenZeppelin.
+
+Saya akan gunakan ini untuk eksperimen token ERC20 dan NFT.
+
+Kontribusi ini juga ditujukan agar terverifikasi di platform Talent Protocol.
